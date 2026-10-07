@@ -1,0 +1,1 @@
+# PHP-Super-Global-Variables
